@@ -1,3 +1,3 @@
 # App Engine as CDN
 
-![gae](https://github.com/DBProductions/gaecdn/blob/master/assets/images/appengine-silver-120x30.gif)
+Replace <app-id> in app.yaml with your <app-id>.appspot.com
