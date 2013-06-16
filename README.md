@@ -1,3 +1,8 @@
 # App Engine as CDN
 
-Replace app-id in app.yaml with your app-id.appspot.com
+Replace the app-id in the app.yaml file with your app-id.
+
+    /assets
+        /css
+        /images
+        /scripts
