@@ -1,7 +1,7 @@
 # gaecdn
 
 Use the Google App Engine as small CDN host for your static files like images, styles and scripts.  
-The configuration have following folder structure as example.
+This example have following folder structure.
 
     /assets
         /css
